@@ -15,8 +15,8 @@
 ![image](https://github.com/user-attachments/assets/3b227ec5-5100-4363-8f2d-57abd7d00dc4)
 
 Optional feature → Display the workout progress using charts.
-![image](https://github.com/user-attachments/assets/fc42a6dc-b3c4-404d-b14a-9e3f5a0304a9)
-![image](https://github.com/user-attachments/assets/6e71a8f0-2f04-4135-bc0a-254566417c89)
+![image](![image](https://github.com/user-attachments/assets/b6f86f98-3de8-48cc-a516-e36fa4977333)
+)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
